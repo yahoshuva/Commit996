@@ -5,6 +5,7 @@ abstract class Mobile
 	abstract void setOs();
 	void setDisplay() {
 		System.out.println("10% is offer");
+		System.out.println("Get deals");
 	}
 }
 class AppleMobiles extends Mobile
