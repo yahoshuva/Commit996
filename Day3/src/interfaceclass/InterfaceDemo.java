@@ -22,6 +22,7 @@ public void insureDeposit() {
 @Override
 public void deposit() {
 	System.out.println("You can get upto 4lacs per month");
+	System.out.println("Welcome");
 	
 }
 
